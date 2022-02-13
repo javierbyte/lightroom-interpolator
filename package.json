@@ -1,0 +1,14 @@
+{
+  "name": "lightroom-interpolator",
+  "version": "1.0.0",
+  "description": "Interpolate lightroom XMP files",
+  "main": "index.js",
+  "bin": "./index.js",
+  "keywords": [
+    "lightroom",
+    "interpolation",
+    "timelapse"
+  ],
+  "author": "hi@javier.xyz",
+  "license": "BSD-3-Clause"
+}
