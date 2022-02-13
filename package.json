@@ -10,5 +10,6 @@
     "timelapse"
   ],
   "author": "hi@javier.xyz",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "dependencies": {}
 }
